@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class FileApp {
     public static void main(String[] args) throws IOException {
         File file = new File("text");
+        // creating scanner instance to read file
         Scanner scanner = new Scanner(file);
         FileWriter fileWriter = new FileWriter(file);
        // fileWriter.write("add text");
