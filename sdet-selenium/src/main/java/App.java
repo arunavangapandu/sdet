@@ -9,11 +9,18 @@ public class App {
         WebDriver driver = new ChromeDriver();
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("http://www.wikipedia.org");
+        driver.get("https://www.disney.com/");
 
-        WebElement titleOfWebPage = driver.findElement(By.cssSelector("#www-wikipedia-org > div.central-textlogo > h1 > span"));
+       // WebElement titleOfWebPage = driver.findElement(By.cssSelector("#www-wikipedia-org > div.central-textlogo > h1 > span"));
 
-        String titleText = titleOfWebPage.getText();
+        /*WebElement  loginButton = driver.findElement(By.id("login_google_submit"));
+        loginButton.click();*/
+
+        WebElement  image = driver.findElement(By.id("#ref-1-4 > div > ul > li:nth-child(2) > div > div > a"));
+        image.click();
+
+
+        /*String titleText = titleOfWebPage.getText();
 
         String expectedText = "Wikipedia";
 
@@ -25,7 +32,7 @@ public class App {
             driver.close();
             throw new Exception();
         }
-
-        driver.close();
+*/
+        //driver.close();
     }
 }
