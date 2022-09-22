@@ -1,0 +1,8 @@
+Resolveing Illegalstateexception 
+1. download chromedriver, copy it to the resources folder
+
+2. give an absolute path (setProeprty)
+3. To fix the issue
+try step 1 or step 2 could work
+step 1: chmod +x chromedriver file path
+step 2: xattr -d com.apple.quarantine chromedriver  
