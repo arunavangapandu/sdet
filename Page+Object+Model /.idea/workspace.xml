@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="303a2996-bedb-4227-9c98-c071ebc6d8f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/AddToCartCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/CommandPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/CreateOrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/DispatchCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/OberverPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/PaymentCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/SendToLogisticsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/StrategyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/Tesla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/com/practise/designpatterns/behavioural/CommandPatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/Tablet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/AbstractFactoryPatternTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/Book$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/BuilderPatternAppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/ComputerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/PortableComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/structuralpatterns/DecoratorPatternTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdet-corejava/out/production/code-2/com/practise/designpatterns/structuralpatterns/TreeDecorator.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Emg3wKQhCz6WnN2GwZsW3k5UBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11709601" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="303a2996-bedb-4227-9c98-c071ebc6d8f7" name="Changes" comment="" />
+      <created>1663205978360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663205978360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/ImmutableCapabilities.class</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
