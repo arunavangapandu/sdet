@@ -1,0 +1,35 @@
+Go to project directory in terminal using cd path/to/project
+Run ssh-keygen
+Press enter for passphrase
+Run cat ~/.ssh/id_rsa.pub in terminal
+Copy the key that you get at the terminal
+Go to Gitlab/Settings/SSH-KEYS
+Paste the key and press Add Key button
+Run ssh-add
+Identity added: /Users/vijay/.ssh/id_rsa 
+Enter passphrase
+
+----install gitlab-runner----
+
+Gitlab-runner --version
+Brew services start gitlab-runner
+brew services stop gitlab-runner
+
+----To register a runner under macOS ----
+gitlab-runner register 
+Enter the GitLab instance URL (for example, https://gitlab.com/):
+https://gitlab.com
+Enter the registration token:
+GR1348941CDc2GewiwRjZtbig4sAQ
+Enter a description for the runner:
+[ehadmins-mbp.lan]: automation-runner
+Enter tags for the runner (comma-separated):
+ssh,ci
+Enter optional maintenance note for the runner:
+
+Registering runner... succeeded                     runner=GR1348941CDc2Gewi
+Enter an executor: docker-ssh+machine, docker, docker-ssh, shell, docker+machine, kubernetes, custom, parallels, ssh, virtualbox:
+shell
+Runner registered successfully. Feel free to start it, but if it's running already the config should be automatically reloaded!
+ 
+Configuration (with the authentication token) was saved in "/Users/vijay/.gitlab-runner/config.toml" 
